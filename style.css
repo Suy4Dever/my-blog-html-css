@@ -70,3 +70,27 @@ header {
     opacity: 0.6;
 }
 
+.article-content {
+    padding: 0px 16px;
+}
+
+.article-footer {
+    padding: 16px 0px;
+    margin: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.read-more-button {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: 1px solid #ccc;
+}
+
+.double-arr {
+    font-size: 12px;
+    /* text-transform: none; */
+}
