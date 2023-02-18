@@ -178,3 +178,38 @@ article {
     display: grid;
     grid-template-columns: 2fr 1fr;
 }
+
+.tag-container {
+    margin: 40px 16px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    background-color: white;
+}
+
+.tag-title {
+    padding: 18px 16px;
+    background-color: #f1f1f1;
+}
+
+.tag-title h4 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.tag-content-container {
+    padding: 16px 16px;
+}
+
+.tag {
+    display: inline-block;
+    font-size: 12px;
+    margin-bottom: 16px;
+    padding: 0px 8px;
+    background-color: #f1f1f1;
+}
+
+.tag:hover {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
