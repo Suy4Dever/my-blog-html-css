@@ -72,6 +72,7 @@ header {
 
 .article-content {
     padding: 0px 16px;
+    padding-right: 40px;
 }
 
 .article-footer {
@@ -93,4 +94,17 @@ header {
 .double-arr {
     font-size: 12px;
     /* text-transform: none; */
+}
+
+.article-footer p {
+    font-weight: bold;
+}
+
+.article-comment-number {
+    padding: 1px 7px;
+    background-color: black;
+    color: white;
+    font-weight:normal !important;
+    margin-left: 10px;
+    margin-right: 24px;
 }
