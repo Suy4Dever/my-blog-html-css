@@ -108,3 +108,24 @@ header {
     margin-left: 10px;
     margin-right: 24px;
 }
+
+.introduce-content {
+    margin: 16px 16px;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    overflow: hidden;
+}
+
+.introduce-content img {
+    width: 100%;
+}
+
+.introduce-content h4 {
+    margin: 10px 16px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.introduce-content p {
+    margin: 15px 16px;
+}
