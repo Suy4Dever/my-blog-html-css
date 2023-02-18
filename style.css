@@ -163,3 +163,6 @@ header {
     border-bottom: 1px solid #ccc;
 }
 
+.post-title {
+    font-size: 18px;
+}
