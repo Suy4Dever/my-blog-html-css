@@ -91,6 +91,10 @@ header {
     border: 1px solid #ccc;
 }
 
+.read-more-button:hover {
+    background-color: #ccc;
+}
+
 .double-arr {
     font-size: 12px;
     /* text-transform: none; */
