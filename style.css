@@ -54,3 +54,18 @@ header {
     margin: 10px 16px;
 }
 
+.title-description {
+    font-size: 18px;
+    font-weight: 400px;
+    margin: 10px 16px;
+}
+
+.article-date {
+    font-size: 18px;
+    font-weight: 400px;
+    opacity: 0.6;
+}
+
+.article-content {
+    margin: 15px 16px;
+}
