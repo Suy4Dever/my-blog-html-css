@@ -41,6 +41,7 @@ header {
     color: black;
     background-color: #fff;
     margin: 16px 16px;
+    margin-bottom: 40px;
     box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
 }
 
@@ -115,6 +116,7 @@ header {
 
 .introduce-content {
     margin: 16px 16px;
+    margin-bottom: 40px;
     background-color: white;
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
     overflow: hidden;
@@ -165,4 +167,9 @@ header {
 
 .post-title {
     font-size: 18px;
+}
+
+article {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
 }
